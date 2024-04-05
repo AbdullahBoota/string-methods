@@ -15,3 +15,10 @@
         display: flex;
         justify-content: center;
     }
+    .buttons .row {
+        margin-right: -2px; /* Move all buttons 5px to the left */
+    }
+    .buttons .center-btn {
+        margin-right: -2px; /* Move the last button 5px to the left */
+    }
+        
